@@ -1,5 +1,5 @@
 package max.com.bmifromhahow;
-
+// 20220420 開始練習
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
